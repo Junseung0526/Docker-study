@@ -1,5 +1,3 @@
-# Docker-study
-
 ## Commands
 ```shell
 docker build -t my-first-docker .
